@@ -10,7 +10,7 @@ export default function Contact() {
         <div className="grid md:grid-cols-2 gap-12">
           <div>
             <div className="text-[#4CAF50] font-medium mb-4">GET IN TOUCH</div>
-            <h2 className="text-4xl font-bold mb-8">Let's discuss your media needs</h2>
+            <h2 className="text-4xl font-bold mb-8">Lets discuss your media needs</h2>
             <form className="space-y-6">
               <div>
                 <label className="block text-sm font-medium mb-2">
